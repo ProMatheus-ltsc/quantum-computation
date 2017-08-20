@@ -1,6 +1,6 @@
-9-10月：
-* think python与python 数据结构
-* python实验楼课程
-* python的深度学习与计算机视觉课程
-* python数值线性代数
+9月：
+* [think python](http://interactivepython.org/runestone/static/thinkcspy/index.html)与[python 数据结构](http://interactivepython.org/runestone/static/pythonds/index.html)
+* python[实验楼课程](https://www.shiyanlou.com/user/234263/)
+* python的[深度学习与计算机视觉课程](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)与[作业](https://github.com/zlotus/cs231n)
+* python[数值线性代数](https://github.com/fastai/numerical-linear-algebra)
 * C语言算法笔记
